@@ -1,2 +1,4 @@
 # High-Low-Game
-Guessing Game about High or Low follower
+
+A guessing game where you have to guess the highest follower from two given star player, company or organization.
+#
